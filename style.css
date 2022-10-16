@@ -5,12 +5,12 @@
   height: 50px;
   background-color: darkgrey;
 }
-
+ 
 .main {
   padding-top: 50px;
   overflow: auto;
 }
-
+ 
 .footer {
   position: fixed;
   bottom: 0;
